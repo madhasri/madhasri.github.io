@@ -4,7 +4,7 @@ Here I present to you an assortment of some pet projects on Data Science and som
 
 ### MandelBrot Set Generation
 
-![MandelBrot](imgs/m1.JPG)
+![MandelBrot1](imgs/m1.JPG)  ![MandelBrot2](imgs/m3.JPG)
 
 This is a parallel computing project that analyzes and compares the peformance of static and dynamic MPI to generate the Mandelbrot set.
 
