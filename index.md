@@ -23,6 +23,31 @@ In the era of Social Networking, tweeting is the newest trend. About 200 million
 [Link to Repo](https://github.com/madhasri/Twitter-Trending-Topic-Classification)
 
 
+### Market Basket Analysis
+
+Market basket analysis on 9835 transactions collected from a supermarket for a 30 day time frame.
+
+More about Market Basket Analysis [here](https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce)
+
+[Link to Repo](https://github.com/madhasri/Market-Basket-Analysis)
+
+
+### SMS Text Analysis
+
+This repo contains R code to carry out text processing on data. This includes removal of stopwords, tokenization and document-term matrix. A wordcloud visualization is created to get an overview of keywords used in spam and ham messages.
+
+[Link to Repo](https://github.com/madhasri/SMS-Text-Analysis)
+
+
+### LDA Web App
+
+A web application created using Django framework that expects a document as input and runs LDA ( Latent Dirichlet Allocation) to discover different topics from it.
+
+More about LDA [here](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
+
+[Link to Repo](https://github.com/madhasri/LDA-Web-App)
+
+
 
 ```markdown
 Syntax highlighted code block
