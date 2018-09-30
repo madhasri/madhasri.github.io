@@ -2,9 +2,11 @@
 
 Here I present to you an assortment of some pet projects on Data Science and some academic projects on Computer Networks and Parallel Computing. Happy Browsing! :D
 
-### Markdown
+### MandelBrot Set Generation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a parallel computing project that analyzes and compares the peformance of static and dynamic MPI to generate the Mandelbrot set.
+[Link to Project](https://github.com/madhasri/Mandelbrot-Parallel-Computing)
+
 
 ```markdown
 Syntax highlighted code block
