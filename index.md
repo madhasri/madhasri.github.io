@@ -6,7 +6,7 @@ Here I present to you an assortment of some pet projects on Data Science and som
 
 This is a parallel computing project that analyzes and compares the peformance of static and dynamic MPI to generate the Mandelbrot set.
 
-[Link to Project](https://github.com/madhasri/Mandelbrot-Parallel-Computing)
+[Link to Repo](https://github.com/madhasri/Mandelbrot-Parallel-Computing)
 
 
 ```markdown
@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](../imgs/m1.jpeg)
+[Link](url) and ![Image](imgs/m1.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
