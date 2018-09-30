@@ -5,6 +5,7 @@ Here I present to you an assortment of some pet projects on Data Science and som
 ### MandelBrot Set Generation
 
 This is a parallel computing project that analyzes and compares the peformance of static and dynamic MPI to generate the Mandelbrot set.
+
 [Link to Project](https://github.com/madhasri/Mandelbrot-Parallel-Computing)
 
 
