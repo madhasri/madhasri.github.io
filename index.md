@@ -4,7 +4,7 @@ Here I present to you an assortment of some pet projects on Data Science and som
 
 Also find me here:
 
-[Linkedin](https://www.linkedin.com/in/madhavisrinivasan/)               [Instagram](https://www.instagram.com/madhavi.94/)
+[![Linkedin](imgs/m1.PNG)](https://www.linkedin.com/in/madhavisrinivasan/)               [Instagram](https://www.instagram.com/madhavi.94/)
 
 
 ### MandelBrot Set Generation
