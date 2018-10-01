@@ -63,5 +63,5 @@ Implemented a mini TCP/IP stack using socket programming.
 [Link to Repo](https://github.com/madhasri/Mini-TCP-IP-Stack)
 
 
-[Linkedin](https://www.linkedin.com/in/madhavisrinivasan/)
+[Linkedin](https://www.linkedin.com/in/madhavisrinivasan/)    [Instagram](https://www.instagram.com/madhavi.94/)
 
