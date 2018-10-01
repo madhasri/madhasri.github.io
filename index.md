@@ -58,6 +58,8 @@ More about LDA [here](https://towardsdatascience.com/topic-modeling-and-latent-d
 
 ## Mini TCP/IP Stack
 
+![](imgs/sample.gif)
+
 Implemented a mini TCP/IP stack using socket programming
 
 [Link to Repo](https://github.com/madhasri/Mini-TCP-IP-Stack)
