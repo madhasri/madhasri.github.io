@@ -29,6 +29,8 @@ In the era of Social Networking, tweeting is the newest trend. About 200 million
 
 ### Market Basket Analysis
 
+![Market-Basket](imgs/market-basket1.PNG)
+
 Market basket analysis on 9835 transactions collected from a supermarket for a 30 day time frame.
 
 More about Market Basket Analysis [here](https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce)
