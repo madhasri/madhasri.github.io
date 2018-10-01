@@ -2,6 +2,11 @@
 
 Here I present to you an assortment of some pet projects on Data Science and some academic projects on Computer Networks and Parallel Computing. Happy Browsing! :D
 
+Also find me here:
+
+[Linkedin](https://www.linkedin.com/in/madhavisrinivasan/)               [Instagram](https://www.instagram.com/madhavi.94/)
+
+
 ### MandelBrot Set Generation
 
 ![MandelBrot](imgs/m2.JPG) 
@@ -63,5 +68,5 @@ Implemented a mini TCP/IP stack using socket programming.
 [Link to Repo](https://github.com/madhasri/Mini-TCP-IP-Stack)
 
 
-[Linkedin](https://www.linkedin.com/in/madhavisrinivasan/)    [Instagram](https://www.instagram.com/madhavi.94/)
+
 
