@@ -7,6 +7,17 @@ Also find me here:
 [![Linkedin](imgs/linkedin.JPG)](https://www.linkedin.com/in/madhavisrinivasan/)    &nbsp;&nbsp;          [![Instagram](imgs/instagram.JPG)](https://www.instagram.com/madhavi.94/)
 
 
+### Seattle Crime Visualization
+
+![MandelBrot](imgs/Seattle-Crime.png)
+
+Created an informational visualization to help the general public identify the high crime zones filtered by area, time, month and day of the week. Additionally, a secondary page in this visualization allows the user to compare two neighbourhoods of Seattle and show a much more granular vision of the crime incidence.
+
+[Link to Visualization](https://public.tableau.com/profile/madhavi.srinivasan#!/vizhome/HowsafeisourSeattle_0/CrimeinSeattle-Anoverview?publish=yes)
+
+
+
+
 ### MandelBrot Set Generation
 
 ![MandelBrot](imgs/m2.JPG) 
