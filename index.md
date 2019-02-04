@@ -51,6 +51,12 @@ This repo contains R code to carry out text processing on data. This includes re
 
 [Link to Repo](https://github.com/madhasri/SMS-Text-Analysis)
 
+### Data art using ggplot
+
+This repo is a tutorial experimenting with different options available in ggplot.
+
+[Link to Repo](https://github.com/madhasri/data-viz-ggplot)
+
 
 ### LDA Web App
 
