@@ -53,6 +53,8 @@ This repo contains R code to carry out text processing on data. This includes re
 
 ### Data art using ggplot
 
+![Point-Facets](imgs/point_facets-1.png)
+
 This repo is a tutorial experimenting with different options available in ggplot.
 
 [Link to Repo](https://github.com/madhasri/data-viz-ggplot)
