@@ -18,6 +18,8 @@ The following different types of the recommendation models were implemented:
 2. Latent-Factor Model
 3. Content-Based Model
 
+[Link to Repo](https://github.com/madhasri/where-to-next)
+
 ### Seattle Crime Visualization
 
 ![MandelBrot](imgs/Seattle-Crime.png)
